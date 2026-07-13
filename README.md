@@ -16,7 +16,7 @@ using data to solve business problems and generate insights.
 ## Visualization
 - Tableau
 - Data Storytelling
-- 
+ 
 ## Programming
 - Python
 - Pandas
